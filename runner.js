@@ -1,0 +1,4 @@
+function functionRunner(callback) { 
+    callback();
+  }
+  
